@@ -1,0 +1,586 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\in.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|solutionrelative:in.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\CodeGeneration.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|solutionrelative:CodeGeneration.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D6E206-435A-4CB9-88AE-0FAC1118AF2F}|LIB\\LIB.vcxproj|D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\LIB\\LIB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{23D6E206-435A-4CB9-88AE-0FAC1118AF2F}|LIB\\LIB.vcxproj|solutionrelative:LIB\\LIB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\PolishNotation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|solutionrelative:PolishNotation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\SA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|solutionrelative:SA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\MFST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|solutionrelative:MFST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\GRB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|solutionrelative:GRB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\Rule.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|solutionrelative:Rule.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\LA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|solutionrelative:LA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\FST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|solutionrelative:FST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\In.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|solutionrelative:In.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\Error.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|solutionrelative:Error.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\Error.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|solutionrelative:Error.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\CodeGeneration.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|solutionrelative:CodeGeneration.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\SA.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|solutionrelative:SA.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\GRB.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|solutionrelative:GRB.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\MFST.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|solutionrelative:MFST.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\PolishNotation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|solutionrelative:PolishNotation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\IT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|solutionrelative:IT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\Parm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|solutionrelative:Parm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\Parm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|solutionrelative:Parm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\Log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|solutionrelative:Log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|solutionrelative:Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\Out.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|solutionrelative:Out.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\In.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|solutionrelative:In.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\LA.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|solutionrelative:LA.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\IT.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|solutionrelative:IT.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\LT.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|solutionrelative:LT.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\LT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|solutionrelative:LT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\FST.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|solutionrelative:FST.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\Out.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|solutionrelative:Out.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|solutionrelative:stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\LPA-2025.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ABB6382-7E47-4079-A7CC-5795F667F9C5}|LPA-2025.vcxproj|solutionrelative:LPA-2025.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\compile_debug.bat||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:compile_debug.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\in.txt.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:in.txt.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "compile_debug.bat",
+              "DocumentMoniker": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\compile_debug.bat",
+              "RelativeDocumentMoniker": "compile_debug.bat",
+              "ToolTip": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\compile_debug.bat",
+              "RelativeToolTip": "compile_debug.bat",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000614|",
+              "WhenOpened": "2025-12-04T15:24:35.69Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "in.txt.asm",
+              "DocumentMoniker": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\in.txt.asm",
+              "RelativeDocumentMoniker": "in.txt.asm",
+              "ToolTip": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\in.txt.asm",
+              "RelativeToolTip": "in.txt.asm",
+              "ViewState": "AgIAAMwBAAAAAAAAAAAAANMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-04T14:25:06.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "in.txt",
+              "DocumentMoniker": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\in.txt",
+              "RelativeDocumentMoniker": "in.txt",
+              "ToolTip": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\in.txt",
+              "RelativeToolTip": "in.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-30T16:57:29.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LA.cpp",
+              "DocumentMoniker": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\LA.cpp",
+              "RelativeDocumentMoniker": "LA.cpp",
+              "ToolTip": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\LA.cpp",
+              "RelativeToolTip": "LA.cpp",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAGIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T16:52:06.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LA.h",
+              "DocumentMoniker": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\LA.h",
+              "RelativeDocumentMoniker": "LA.h",
+              "ToolTip": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\LA.h",
+              "RelativeToolTip": "LA.h",
+              "ViewState": "AgIAAOEAAAAAAAAAAADwv/EAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-30T16:55:06.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SA.cpp",
+              "DocumentMoniker": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\SA.cpp",
+              "RelativeDocumentMoniker": "SA.cpp",
+              "ToolTip": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\SA.cpp",
+              "RelativeToolTip": "SA.cpp",
+              "ViewState": "AgIAAEYBAAAAAAAAAAAAAEgBAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T16:53:27.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SA.h",
+              "DocumentMoniker": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\SA.h",
+              "RelativeDocumentMoniker": "SA.h",
+              "ToolTip": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\SA.h",
+              "RelativeToolTip": "SA.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-30T16:56:59.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Rule.h",
+              "DocumentMoniker": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\Rule.h",
+              "RelativeDocumentMoniker": "Rule.h",
+              "ToolTip": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\Rule.h",
+              "RelativeToolTip": "Rule.h",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwv2wAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-30T16:56:48.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MFST.cpp",
+              "DocumentMoniker": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\MFST.cpp",
+              "RelativeDocumentMoniker": "MFST.cpp",
+              "ToolTip": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\MFST.cpp",
+              "RelativeToolTip": "MFST.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T16:52:38.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MFST.h",
+              "DocumentMoniker": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\MFST.h",
+              "RelativeDocumentMoniker": "MFST.h",
+              "ToolTip": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\MFST.h",
+              "RelativeToolTip": "MFST.h",
+              "ViewState": "AgIAAGAAAAAAAAAAAADwv28AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-30T16:55:52.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PolishNotation.cpp",
+              "DocumentMoniker": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\PolishNotation.cpp",
+              "RelativeDocumentMoniker": "PolishNotation.cpp",
+              "ToolTip": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\PolishNotation.cpp",
+              "RelativeToolTip": "PolishNotation.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T16:53:19.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "In.h",
+              "DocumentMoniker": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\In.h",
+              "RelativeDocumentMoniker": "In.h",
+              "ToolTip": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\In.h",
+              "RelativeToolTip": "In.h",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvyIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-30T16:54:40.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Out.cpp",
+              "DocumentMoniker": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\Out.cpp",
+              "RelativeDocumentMoniker": "Out.cpp",
+              "ToolTip": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\Out.cpp",
+              "RelativeToolTip": "Out.cpp",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvysAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T16:52:51.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Out.h",
+              "DocumentMoniker": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\Out.h",
+              "RelativeDocumentMoniker": "Out.h",
+              "ToolTip": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\Out.h",
+              "RelativeToolTip": "Out.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-30T16:56:03.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "In.cpp",
+              "DocumentMoniker": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\In.cpp",
+              "RelativeDocumentMoniker": "In.cpp",
+              "ToolTip": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\In.cpp",
+              "RelativeToolTip": "In.cpp",
+              "ViewState": "AgIAAGsAAAAAAAAAAADwv3IAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T16:51:38.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Log.cpp",
+              "DocumentMoniker": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\Log.cpp",
+              "RelativeDocumentMoniker": "Log.cpp",
+              "ToolTip": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\Log.cpp",
+              "RelativeToolTip": "Log.cpp",
+              "ViewState": "AgIAAFMAAAAAAAAAAADwv2MAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T16:52:16.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Log.h",
+              "DocumentMoniker": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\Log.h",
+              "RelativeDocumentMoniker": "Log.h",
+              "ToolTip": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\Log.h",
+              "RelativeToolTip": "Log.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-30T16:55:18.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Parm.cpp",
+              "DocumentMoniker": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\Parm.cpp",
+              "RelativeDocumentMoniker": "Parm.cpp",
+              "ToolTip": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\Parm.cpp",
+              "RelativeToolTip": "Parm.cpp",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T16:53:00.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Parm.h",
+              "DocumentMoniker": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\Parm.h",
+              "RelativeDocumentMoniker": "Parm.h",
+              "ToolTip": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\Parm.h",
+              "RelativeToolTip": "Parm.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-30T16:56:21.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Error.cpp",
+              "DocumentMoniker": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\Error.cpp",
+              "RelativeDocumentMoniker": "Error.cpp",
+              "ToolTip": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\Error.cpp",
+              "RelativeToolTip": "Error.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAADgvzgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T16:50:27.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.h",
+              "DocumentMoniker": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\Error.h",
+              "RelativeDocumentMoniker": "Error.h",
+              "ToolTip": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\Error.h",
+              "RelativeToolTip": "Error.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-30T16:54:01.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LPA-2025.cpp",
+              "DocumentMoniker": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\LPA-2025.cpp",
+              "RelativeDocumentMoniker": "LPA-2025.cpp",
+              "ToolTip": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\LPA-2025.cpp",
+              "RelativeToolTip": "LPA-2025.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T16:39:14.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PolishNotation.h",
+              "DocumentMoniker": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\PolishNotation.h",
+              "RelativeDocumentMoniker": "PolishNotation.h",
+              "ToolTip": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\PolishNotation.h",
+              "RelativeToolTip": "PolishNotation.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-30T16:56:37.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CodeGeneration.cpp",
+              "DocumentMoniker": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\CodeGeneration.cpp",
+              "RelativeDocumentMoniker": "CodeGeneration.cpp",
+              "ToolTip": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\CodeGeneration.cpp",
+              "RelativeToolTip": "CodeGeneration.cpp",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAACEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T16:51:02.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CodeGeneration.h",
+              "DocumentMoniker": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\CodeGeneration.h",
+              "RelativeDocumentMoniker": "CodeGeneration.h",
+              "ToolTip": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\CodeGeneration.h",
+              "RelativeToolTip": "CodeGeneration.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-30T16:53:44.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LT.h",
+              "DocumentMoniker": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\LT.h",
+              "RelativeDocumentMoniker": "LT.h",
+              "ToolTip": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\LT.h",
+              "RelativeToolTip": "LT.h",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvzAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-30T16:55:34.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LT.cpp",
+              "DocumentMoniker": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\LT.cpp",
+              "RelativeDocumentMoniker": "LT.cpp",
+              "ToolTip": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\LT.cpp",
+              "RelativeToolTip": "LT.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAADwvy8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T16:52:27.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IT.cpp",
+              "DocumentMoniker": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\IT.cpp",
+              "RelativeDocumentMoniker": "IT.cpp",
+              "ToolTip": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\IT.cpp",
+              "RelativeToolTip": "IT.cpp",
+              "ViewState": "AgIAACMAAAAAAAAAAADwvzYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T16:51:55.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IT.h",
+              "DocumentMoniker": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\IT.h",
+              "RelativeDocumentMoniker": "IT.h",
+              "ToolTip": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\IT.h",
+              "RelativeToolTip": "IT.h",
+              "ViewState": "AgIAACEAAAAAAAAAAADwvzUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-30T16:54:54.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GRB.cpp",
+              "DocumentMoniker": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\GRB.cpp",
+              "RelativeDocumentMoniker": "GRB.cpp",
+              "ToolTip": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\GRB.cpp",
+              "RelativeToolTip": "GRB.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAADwv0oAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T16:51:23.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GRB.h",
+              "DocumentMoniker": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\GRB.h",
+              "RelativeDocumentMoniker": "GRB.h",
+              "ToolTip": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\GRB.h",
+              "RelativeToolTip": "GRB.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-30T16:54:29.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FST.cpp",
+              "DocumentMoniker": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\FST.cpp",
+              "RelativeDocumentMoniker": "FST.cpp",
+              "ToolTip": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\FST.cpp",
+              "RelativeToolTip": "FST.cpp",
+              "ViewState": "AgIAACgAAAAAAAAAAADwvzYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T16:51:13.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FST.h",
+              "DocumentMoniker": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\FST.h",
+              "RelativeDocumentMoniker": "FST.h",
+              "ToolTip": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\FST.h",
+              "RelativeToolTip": "FST.h",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-30T16:54:14.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LIB.cpp",
+              "DocumentMoniker": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\LIB\\LIB.cpp",
+              "RelativeDocumentMoniker": "LIB\\LIB.cpp",
+              "ToolTip": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\LIB\\LIB.cpp",
+              "RelativeToolTip": "LIB\\LIB.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T16:39:55.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "stdafx.h",
+              "DocumentMoniker": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\stdafx.h",
+              "RelativeDocumentMoniker": "stdafx.h",
+              "ToolTip": "D:\\bstu\\3sem\\lpa2\\lpaa\\lpa\\LPA-2025\\stdafx.h",
+              "RelativeToolTip": "stdafx.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-30T16:57:14.223Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

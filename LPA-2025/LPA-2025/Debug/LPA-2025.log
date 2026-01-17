@@ -1,0 +1,151 @@
+﻿  CodeGeneration.cpp
+D:\bstu\3sem\lpa2\lpa\LPA-2025\LA.h(9,9): warning C4005: SINGLE_QUOTE: изменение макроопределения
+  (компиляция исходного файла "CodeGeneration.cpp")
+      D:\bstu\3sem\lpa2\lpa\LPA-2025\In.h(6,9):
+      см. предыдущее определение "SINGLE_QUOTE"
+  
+D:\bstu\3sem\lpa2\lpa\LPA-2025\LA.h(10,9): warning C4005: DOUBLE_QUOTE: изменение макроопределения
+  (компиляция исходного файла "CodeGeneration.cpp")
+      D:\bstu\3sem\lpa2\lpa\LPA-2025\In.h(5,9):
+      см. предыдущее определение "DOUBLE_QUOTE"
+  
+  Error.cpp
+D:\bstu\3sem\lpa2\lpa\LPA-2025\LA.h(9,9): warning C4005: SINGLE_QUOTE: изменение макроопределения
+  (компиляция исходного файла "Error.cpp")
+      D:\bstu\3sem\lpa2\lpa\LPA-2025\In.h(6,9):
+      см. предыдущее определение "SINGLE_QUOTE"
+  
+D:\bstu\3sem\lpa2\lpa\LPA-2025\LA.h(10,9): warning C4005: DOUBLE_QUOTE: изменение макроопределения
+  (компиляция исходного файла "Error.cpp")
+      D:\bstu\3sem\lpa2\lpa\LPA-2025\In.h(5,9):
+      см. предыдущее определение "DOUBLE_QUOTE"
+  
+  GRB.cpp
+  IT.cpp
+D:\bstu\3sem\lpa2\lpa\LPA-2025\LA.h(9,9): warning C4005: SINGLE_QUOTE: изменение макроопределения
+  (компиляция исходного файла "IT.cpp")
+      D:\bstu\3sem\lpa2\lpa\LPA-2025\In.h(6,9):
+      см. предыдущее определение "SINGLE_QUOTE"
+  
+D:\bstu\3sem\lpa2\lpa\LPA-2025\LA.h(10,9): warning C4005: DOUBLE_QUOTE: изменение макроопределения
+  (компиляция исходного файла "IT.cpp")
+      D:\bstu\3sem\lpa2\lpa\LPA-2025\In.h(5,9):
+      см. предыдущее определение "DOUBLE_QUOTE"
+  
+  In.cpp
+D:\bstu\3sem\lpa2\lpa\LPA-2025\LA.h(9,9): warning C4005: SINGLE_QUOTE: изменение макроопределения
+  (компиляция исходного файла "In.cpp")
+      D:\bstu\3sem\lpa2\lpa\LPA-2025\In.h(6,9):
+      см. предыдущее определение "SINGLE_QUOTE"
+  
+D:\bstu\3sem\lpa2\lpa\LPA-2025\LA.h(10,9): warning C4005: DOUBLE_QUOTE: изменение макроопределения
+  (компиляция исходного файла "In.cpp")
+      D:\bstu\3sem\lpa2\lpa\LPA-2025\In.h(5,9):
+      см. предыдущее определение "DOUBLE_QUOTE"
+  
+D:\bstu\3sem\lpa2\lpa\LPA-2025\In.cpp(29,45): warning C4018: <: несоответствие типов со знаком и без знака
+  LA.cpp
+D:\bstu\3sem\lpa2\lpa\LPA-2025\LA.h(9,9): warning C4005: SINGLE_QUOTE: изменение макроопределения
+  (компиляция исходного файла "LA.cpp")
+      D:\bstu\3sem\lpa2\lpa\LPA-2025\In.h(6,9):
+      см. предыдущее определение "SINGLE_QUOTE"
+  
+D:\bstu\3sem\lpa2\lpa\LPA-2025\LA.h(10,9): warning C4005: DOUBLE_QUOTE: изменение макроопределения
+  (компиляция исходного файла "LA.cpp")
+      D:\bstu\3sem\lpa2\lpa\LPA-2025\In.h(5,9):
+      см. предыдущее определение "DOUBLE_QUOTE"
+  
+D:\bstu\3sem\lpa2\lpa\LPA-2025\LA.cpp(547,27): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "ERROR_THROW"
+D:\bstu\3sem\lpa2\lpa\LPA-2025\LA.cpp(925,35): warning C4018: <: несоответствие типов со знаком и без знака
+D:\bstu\3sem\lpa2\lpa\LPA-2025\LA.cpp(942,35): warning C4018: <: несоответствие типов со знаком и без знака
+  LPA-2025.cpp
+D:\bstu\3sem\lpa2\lpa\LPA-2025\LA.h(9,9): warning C4005: SINGLE_QUOTE: изменение макроопределения
+  (компиляция исходного файла "LPA-2025.cpp")
+      D:\bstu\3sem\lpa2\lpa\LPA-2025\In.h(6,9):
+      см. предыдущее определение "SINGLE_QUOTE"
+  
+D:\bstu\3sem\lpa2\lpa\LPA-2025\LA.h(10,9): warning C4005: DOUBLE_QUOTE: изменение макроопределения
+  (компиляция исходного файла "LPA-2025.cpp")
+      D:\bstu\3sem\lpa2\lpa\LPA-2025\In.h(5,9):
+      см. предыдущее определение "DOUBLE_QUOTE"
+  
+  LT.cpp
+D:\bstu\3sem\lpa2\lpa\LPA-2025\LA.h(9,9): warning C4005: SINGLE_QUOTE: изменение макроопределения
+  (компиляция исходного файла "LT.cpp")
+      D:\bstu\3sem\lpa2\lpa\LPA-2025\In.h(6,9):
+      см. предыдущее определение "SINGLE_QUOTE"
+  
+D:\bstu\3sem\lpa2\lpa\LPA-2025\LA.h(10,9): warning C4005: DOUBLE_QUOTE: изменение макроопределения
+  (компиляция исходного файла "LT.cpp")
+      D:\bstu\3sem\lpa2\lpa\LPA-2025\In.h(5,9):
+      см. предыдущее определение "DOUBLE_QUOTE"
+  
+  Log.cpp
+D:\bstu\3sem\lpa2\lpa\LPA-2025\LA.h(9,9): warning C4005: SINGLE_QUOTE: изменение макроопределения
+  (компиляция исходного файла "Log.cpp")
+      D:\bstu\3sem\lpa2\lpa\LPA-2025\In.h(6,9):
+      см. предыдущее определение "SINGLE_QUOTE"
+  
+D:\bstu\3sem\lpa2\lpa\LPA-2025\LA.h(10,9): warning C4005: DOUBLE_QUOTE: изменение макроопределения
+  (компиляция исходного файла "Log.cpp")
+      D:\bstu\3sem\lpa2\lpa\LPA-2025\In.h(5,9):
+      см. предыдущее определение "DOUBLE_QUOTE"
+  
+  MFST.cpp
+D:\bstu\3sem\lpa2\lpa\LPA-2025\LA.h(9,9): warning C4005: SINGLE_QUOTE: изменение макроопределения
+  (компиляция исходного файла "MFST.cpp")
+      D:\bstu\3sem\lpa2\lpa\LPA-2025\In.h(6,9):
+      см. предыдущее определение "SINGLE_QUOTE"
+  
+D:\bstu\3sem\lpa2\lpa\LPA-2025\LA.h(10,9): warning C4005: DOUBLE_QUOTE: изменение макроопределения
+  (компиляция исходного файла "MFST.cpp")
+      D:\bstu\3sem\lpa2\lpa\LPA-2025\In.h(5,9):
+      см. предыдущее определение "DOUBLE_QUOTE"
+  
+D:\bstu\3sem\lpa2\lpa\LPA-2025\MFST.cpp(248,36): warning C4267: =: преобразование из "size_t" в "short"; возможна потеря данных
+  Out.cpp
+D:\bstu\3sem\lpa2\lpa\LPA-2025\LA.h(9,9): warning C4005: SINGLE_QUOTE: изменение макроопределения
+  (компиляция исходного файла "Out.cpp")
+      D:\bstu\3sem\lpa2\lpa\LPA-2025\In.h(6,9):
+      см. предыдущее определение "SINGLE_QUOTE"
+  
+D:\bstu\3sem\lpa2\lpa\LPA-2025\LA.h(10,9): warning C4005: DOUBLE_QUOTE: изменение макроопределения
+  (компиляция исходного файла "Out.cpp")
+      D:\bstu\3sem\lpa2\lpa\LPA-2025\In.h(5,9):
+      см. предыдущее определение "DOUBLE_QUOTE"
+  
+  Parm.cpp
+D:\bstu\3sem\lpa2\lpa\LPA-2025\LA.h(9,9): warning C4005: SINGLE_QUOTE: изменение макроопределения
+  (компиляция исходного файла "Parm.cpp")
+      D:\bstu\3sem\lpa2\lpa\LPA-2025\In.h(6,9):
+      см. предыдущее определение "SINGLE_QUOTE"
+  
+D:\bstu\3sem\lpa2\lpa\LPA-2025\LA.h(10,9): warning C4005: DOUBLE_QUOTE: изменение макроопределения
+  (компиляция исходного файла "Parm.cpp")
+      D:\bstu\3sem\lpa2\lpa\LPA-2025\In.h(5,9):
+      см. предыдущее определение "DOUBLE_QUOTE"
+  
+  PolishNotation.cpp
+D:\bstu\3sem\lpa2\lpa\LPA-2025\LA.h(9,9): warning C4005: SINGLE_QUOTE: изменение макроопределения
+  (компиляция исходного файла "PolishNotation.cpp")
+      D:\bstu\3sem\lpa2\lpa\LPA-2025\In.h(6,9):
+      см. предыдущее определение "SINGLE_QUOTE"
+  
+D:\bstu\3sem\lpa2\lpa\LPA-2025\LA.h(10,9): warning C4005: DOUBLE_QUOTE: изменение макроопределения
+  (компиляция исходного файла "PolishNotation.cpp")
+      D:\bstu\3sem\lpa2\lpa\LPA-2025\In.h(5,9):
+      см. предыдущее определение "DOUBLE_QUOTE"
+  
+  SA.cpp
+D:\bstu\3sem\lpa2\lpa\LPA-2025\LA.h(9,9): warning C4005: SINGLE_QUOTE: изменение макроопределения
+  (компиляция исходного файла "SA.cpp")
+      D:\bstu\3sem\lpa2\lpa\LPA-2025\In.h(6,9):
+      см. предыдущее определение "SINGLE_QUOTE"
+  
+D:\bstu\3sem\lpa2\lpa\LPA-2025\LA.h(10,9): warning C4005: DOUBLE_QUOTE: изменение макроопределения
+  (компиляция исходного файла "SA.cpp")
+      D:\bstu\3sem\lpa2\lpa\LPA-2025\In.h(5,9):
+      см. предыдущее определение "DOUBLE_QUOTE"
+  
+  Создание кода...
+  LPA-2025.vcxproj -> D:\bstu\3sem\lpa2\lpa\LPA-2025\Debug\LPA-2025.exe

@@ -1,0 +1,92 @@
+byte task getAnd(byte a, byte b) {
+    response a&b;
+}
+
+int task getMul(int a, int b) {
+    response a*b;
+}
+
+begin {
+cout("тест функции getAnd");
+def byte yesand = getAnd(4, 5);
+cout(yesand);
+
+cout("тест функции getMul");
+def int iv = getMul(200, 200);
+cout(iv);
+
+cout("тест операций (логических, унарных, арифметических)");
+def byte yesor = 3 | 5;
+def byte inversion = ~11;
+
+def byte az = 5d;
+def byte bz = 9;
+def byte incr = ++az;
+def byte decr = bz--;
+def int w;
+w=100/2;
+
+cout(yesor);
+cout(inversion);
+cout(incr);
+cout(decr);
+cout(w);
+
+cout("тест функции сравнения строк стандартной библиотеки");
+def str s1 = "aq";
+def str s2 = "a";
+def int result = strcpr(s1, s2);
+cout(result);
+
+cout("тест функции преобразования строки в число стандартной библиотеки");
+def str s3 = "123";
+def int res = atoli(s3);
+cout(res);
+
+cout("тест типы данных");
+def byte bb = 1011b;
+cout(bb);
+def symb symbol = 'Q';
+def str line = "it`s line";
+cout(symbol);
+cout(line);
+cout("просто текст");
+
+cout("тест условного оператора switch-is-any"); 
+def byte sw = 1;
+switch(sw){
+    is 2:{cout("two");}
+    is 1:{cout("one");}
+    is 3:{cout("three");}
+    any:{cout("any");}
+}
+
+cout("тест условного оператора when-other");
+def torf flag = 0;
+when (inversion > 2) {
+    flag = 1;
+    cout(flag);
+}
+other {
+    cout(flag);
+}
+
+cout("тест вложенных условных операторов");
+def int val = 2;
+switch(val) {
+    is 2: {
+        cout("val is 2");
+        when(bz > 5) {
+            cout("and bz > 5");
+        }
+    }
+    any: { cout("other"); }
+}
+
+!!comment
+
+cout("тест сложного выражения");
+def byte clozh = (1+2)*2-2*2+val;!!test test
+cout(clozh);
+
+}
